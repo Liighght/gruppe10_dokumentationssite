@@ -7,6 +7,7 @@ body {
 
 .box {
     margin: 15px;
+    z-index: 1;
 }
 
 img {
@@ -14,9 +15,29 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 75%;
+    padding-bottom: 20px;
 }
 
-.sectionwrapper {
+
+.logo {
+    width: 100px;
+    max-height: 66px;
+    margin: 0;
+    padding: 0;
+}
+
+.logo img {
+
+    width: 78px;
+    max-height: 55px;
+    padding-top: 6px;
+    padding-left: 7px;
+    padding-bottom: 0;
+    padding-right: 0;
+    margin: 0;
+}
+
+#sectionwrapper {
     display: flex;
     flex-wrap: wrap;
 }
@@ -28,6 +49,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: 0;
 }
 
 .gruppebillede {
@@ -94,7 +116,11 @@ ul.topnav li a.active {
 
 /********** MEDIA QUERIES ************/
 
-@media screen and (max-width: 1237px) {
+@media screen and (max-width: 1340px) {
+
+    .logo {
+        display: none;
+    }
 
     ul.topnav li {
         float: none;
@@ -102,6 +128,10 @@ ul.topnav li a.active {
 }
 
 @media screen and (max-width: 656px) {
+
+    .logo {
+        display: none;
+    }
 
     ul.topnav li {
         float: none;
@@ -127,6 +157,10 @@ ul.topnav li a.active {
 }
 
 @media screen and (max-width: 403px) {
+
+    .logo {
+        display: none;
+    }
 
     ul.topnav li {
         float: none;
