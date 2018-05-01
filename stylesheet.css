@@ -121,7 +121,7 @@ ul.topnav li a.active {
 
 /********** MEDIA QUERIES ************/
 
-@media screen and (max-width: 1585px) {
+@media screen and (max-width: 1010px) {
 
     .logo {
         display: none;
