@@ -1,0 +1,50 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342.39 241.48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e48105;
+      }
+
+      .cls-2 {
+        fill: #313131;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-size: 52.61px;
+        fill: #fff;
+        font-family: Futura-Bold, Futura;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.03em;
+      }
+    </style>
+  </defs>
+  <title>logo</title>
+  <g>
+    <path class="cls-1" d="M840.3,575.17V524.44h270.57s22.55-7.65,18.79,26.77v61.18s1.88,21-9.4,21H924.61L885.4,663.48V633.42H854s-15.69,3.76-15.69-7.51S840.3,575.17,840.3,575.17Z" transform="translate(-787.69 -422)"/>
+    <g>
+      <path class="cls-2" d="M787.69,517.91V438.48s0-15.5,15.07-15.5h307.11s17-7.75,19.79,20.35v74.6s0,14-13.68,14H853.18l-35.43,29.16V532H800.57C800.57,531.06,787.69,517.91,787.69,517.91Z" transform="translate(-787.69 -422)"/>
+      <g class="cls-3">
+        <text class="cls-4" transform="translate(40.01 71.93)"><tspan xml:space="preserve">  PRI</tspan></text>
+        <text class="cls-5" transform="translate(167.36 71.93)">V</text>
+        <text class="cls-6" transform="translate(205.84 71.93)">A</text>
+        <text class="cls-4" transform="translate(246.28 71.93)">T</text>
+      </g>
+    </g>
+    <g class="cls-3">
+      <text class="cls-4" transform="translate(109.53 175.54)">S</text>
+      <text class="cls-4" transform="translate(143.5 175.54)">N</text>
+      <text class="cls-4" transform="translate(191.56 175.54)">AK</text>
+    </g>
+  </g>
+</svg>
