@@ -197,4 +197,10 @@ ul.topnav li a.active {
 
 }
 
+#Link_Animations_spil {
+    margin: 15px;
+    z-index: 1;
+
+}
+
 /*********** MEDIA QUERIES SLUT ***********/
